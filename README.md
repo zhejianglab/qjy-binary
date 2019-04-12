@@ -1,0 +1,2 @@
+# qjy-binary
+Binary Release
